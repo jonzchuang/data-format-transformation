@@ -4,6 +4,7 @@ Format: -1 0.2 0.5 1.2 ...
 Author：Chuang Zhang.
 Date: Nov. 11, 2016.
 Location: CS, Tianjin University.
+Language: C++.
 */
 
 #include <iostream>
