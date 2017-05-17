@@ -1,3 +1,11 @@
+/*1. Function: 将稀疏数据集重新填充后，第一列为数据标签，标签和数据特征在一个文件中。
+Format: -1 0.2 0.5 1.2 ...
+1  0.4 0.1 1.4 ...
+Author：Chuang Zhang.
+Date: Nov. 11, 2016.
+Location: CS, Tianjin University.
+Language: C.
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
