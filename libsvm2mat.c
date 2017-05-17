@@ -32,7 +32,7 @@ int main(int argc, char*argv[]){
         printf("cannot open data file");//mat data: label fea1 fea2 ...
         exit(0);
     }
-    if((f3 = fopen("label.txt","a+"))==NULL){
+    if((f3 = fopen("label.txt","w"))==NULL){
         printf("cannot open data file");// label 
         exit(0);
     }
